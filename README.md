@@ -1,4 +1,4 @@
-# zoox_parsing_coding_challenge
+# parsing_coding_challenge
 
 We have a simple robot that can only take a few actions.
 The commands are sent one byte at a time over a serial link as command packets. These packets have the following format:
